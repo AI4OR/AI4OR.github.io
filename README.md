@@ -20,3 +20,5 @@ network will help democratize knowledge and expertise, and close the divide betw
 centers and small communities, train and mobilize young talents. It will help create a market of specific skills
 by bringing academia, healthcare institutions and industry together, and help attract and keep young talents
 in Europe. Moreover, it will give solid ground to multi-stakeholder research collaborations.
+
+contact: infoAI4OR@gmail.com
